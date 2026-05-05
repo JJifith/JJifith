@@ -2,7 +2,7 @@
 
 🎓 M.Tech Computer Science @ CET 
 
-I build **real-time, scalable systems** with a focus on **cryptography, machine learning, and backend engineering**.
+I build **real-time, scalable systems** with a focus on **cybersecurity, machine learning, and backend engineering**.
 
 ---
 
